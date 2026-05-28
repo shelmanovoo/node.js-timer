@@ -9,6 +9,8 @@
 - Поддержка форматов: `mm:ss`, `hh:mm:ss`
 - Звуковое напоминание при завершении (опционально)
 - Уведомления системы (macOS/Windows/Linux)
+<img width="577" height="252" alt="image" src="https://github.com/user-attachments/assets/1d52e0df-55a4-496f-a946-460d77c96fd1" />
+
 
 ## Установка
 
