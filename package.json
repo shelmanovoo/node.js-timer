@@ -1,0 +1,19 @@
+{
+  "name": "node-timer",
+  "version": "1.0.0",
+  "description": "Консольный таймер/секундомер с уведомлениями",
+  "main": "timer.js",
+  "scripts": {
+    "start": "node timer.js",
+    "countdown": "node timer.js --countdown 5:00",
+    "stopwatch": "node timer.js --stopwatch"
+  },
+  "keywords": ["timer", "stopwatch", "notification"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0",
+    "node-notifier": "^10.0.1"
+  }
+}
